@@ -24,7 +24,7 @@ Unfortunately, the authors didn't seem to be responsive to requests for trainabl
 
 # Advantages over original code
 * No compiling shared libraries required that used old CUDA and pytorch version 1.3.1
-* Trainable, just drop gridsampler.py in place of where the other adaptive_gridsampler/gridsampler.py file
+* Trainable, just drop gridsampler.py in place of the other adaptive_gridsampler/gridsampler.py file
 
 Good luck with your super-resolution projects!
 
